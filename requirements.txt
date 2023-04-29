@@ -4,3 +4,5 @@ pandas
 chromadb
 tiktoken
 openai
+faiss-cpu
+google-search-results
